@@ -1,0 +1,16 @@
+---
+format:
+  html:
+    toc: true
+    toc-title: Project
+    toc-location: left
+    embed-resources: true
+---
+
+# Mission
+
+Various genetic and culture-based approaches are used for the surveillance of antimicrobial resistance (AMR). However, there are few harmonized, high-throughput platforms that target clinically relevant markers that indicate AMR mobility and multidrug resistance (MDR). In the **TEXAS** project, we will develop and validate two promising technological platforms addressing this gap. These technologies can be readily incorporated into national and international integrated surveillance programs.
+
+# Funding
+
+The **TEXAS** project is enabled through national funding provided by the organizations participating in the [JPIAMR 2023 call](https://www.jpiamr.eu/calls/diagnostics-surveillance-call-2023/){.external target="_blank"}.

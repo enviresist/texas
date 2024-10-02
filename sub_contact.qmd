@@ -1,0 +1,35 @@
+---
+format:
+  html:
+    toc: true
+    toc-title: Contact
+    toc-location: left
+    embed-resources: true
+    code-block-background: true
+---
+
+# Project coordination
+
+| Dr. Sefi Vernick
+| Department of Sensing, information and mechanization engineering
+| Institute of Agricultural Engineering
+| Agricultural Research Organization - Volcani Center
+| PO box 6, 68 Hamaccabim Rd., Rishon lezion
+| Israel 5025001 
+| 
+| +972 3 968 3499
+| sefi (at) agri.gov.il
+
+# Web page
+
+| Dr. David Kneis
+| TU Dresen, Institute of Hydrobiology
+| 01062 Dresden, Germany
+| 
+| +49 463 3232 9
+| david.kneis (at) tu-dresden.de
+
+# Contact details of principal investigators
+
+Click "Team" in the top navigation panel and follow the respective links to find the contact information of all **TEXAS** principal investigators.
+

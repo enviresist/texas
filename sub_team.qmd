@@ -1,0 +1,29 @@
+---
+format:
+  html:
+    toc: true
+    toc-title: Team
+    toc-location: left
+    embed-resources: true
+---
+
+# Principal investigators
+
+- [Sefi Vernick](https://www.vernicklab.com/people){.external target="_blank"}, Agricultural Research Organization - Volcani Institute, IL
+
+- [Steven Djordjevic](https://profiles.uts.edu.au/Steven.Djordjevic/about){.external target="_blank"}, University of Technology Sydney, The Australian Institute for Microbiology and Infection, AU
+
+- [David Graham](https://www.ncl.ac.uk/engineering/staff/profile/davidgraham.html){.external target="_blank"}, Newcastle University, School of Engineering, UK
+
+- [David Kneis](https://wwwpub.zih.tu-dresden.de/~kneis/){.external target="_blank"}, TU Dresden, Institute of Hydrobiology, DE
+
+- [Doug Manuel](https://www.ohri.ca/profile/DougManuelLab/profile){.external target="_blank"}, Ottawa
+Hospital Research Institute, University of Ottawa, Clinical Epidemiology Program, CD
+
+- [Renee Street](https://www.samrc.ac.za/research/intramural-research-units/EnvironmentHealth-renee-street){.external target="_blank"}, South African Medical Research Council, Environment & Health Research Unit, ZA
+
+- [Marcos Quintela-Baluja](https://www.ncl.ac.uk/clacs/staff/profile/quintelabaluja.html#publications){.external target="_blank"}, Updated address: Durham University, Department of Biosciences, UK
+
+# Collaboration partners
+
+Collaboration partners will be listed here

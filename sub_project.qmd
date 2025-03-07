@@ -20,6 +20,7 @@ Various genetic and culture-based approaches are used for the surveillance of an
 
 The **TEXAS** project is enabled through national funding provided by the organizations participating in the [JPIAMR 2023 call](https://www.jpiamr.eu/calls/diagnostics-surveillance-call-2023/){.external target="_blank"}.
 :::
+
 :::{.column width=35%}
 ![Logo by Eddie Cytryn](images/JPIAMR_TEXAS_LOGO_whitemarg_scaled.jpg){width="300px"}
 :::
